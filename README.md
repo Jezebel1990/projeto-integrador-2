@@ -31,4 +31,6 @@ Projeto integrador proposto pela Univesp, cobrindo todo o aspecto de desenvolvim
 
 
 <h2>Tecnologias utilizadas</h2>
-<img alt="TypeScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+

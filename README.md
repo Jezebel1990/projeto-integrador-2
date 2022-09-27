@@ -12,11 +12,11 @@ Projeto integrador proposto pela Univesp, cobrindo todo o aspecto de desenvolvim
 
 <h2>Visão resumida do Site</h2>
 <h6>Página sobre nós</h6>
-<img alt="Quem somos?" src="https://i.imgur.com/ZFjpjMC.jpg"/>
+<img alt="Quem somos?" src="https://i.imgur.com/vlcUNsb.png"/>
 <h6>Página de Dúvidas</h6>
-<img alt="Dúvidas" src="https://i.imgur.com/vxlaYTc.jpg"/>
+<img alt="Dúvidas" src="https://i.imgur.com/VxLPB86.png"/>
 <h6>Página de Consulta de livros</h6>
-<img alt="Consulta" src="https://i.imgur.com/9ssiHta.jpg"/>
+<img alt="Consulta" src="https://i.imgur.com/IYQIykY.png"/>
 
 
 <h2>Funcionalidades da aplicação</h2>
@@ -32,5 +32,9 @@ Projeto integrador proposto pela Univesp, cobrindo todo o aspecto de desenvolvim
 
 <h2>Tecnologias utilizadas</h2>
 <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="Django"  src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="Flask"  src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
-
+<img alt="Html5"  src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="Css3"  src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="PostgreSQL"  src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
